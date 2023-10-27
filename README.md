@@ -9,3 +9,5 @@ Instructions:
 try to notedown important point of the class 
 
 important links: 1.https://www.youtube.com/ 2.https://en.wikipedia.org/wiki/Main_Page
+
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
